@@ -3,16 +3,16 @@
     "name": "ccmm.care",
     "url": "https://ccmm.care",
     "slug": "ccmm-care",
-    "status": "up",
-    "uptime": "99.81%",
-    "time": 1074
+    "status": "down",
+    "uptime": "99.80%",
+    "time": 992
   },
   {
     "name": "bfcmind.nl",
     "url": "https://bfcmind.nl",
     "slug": "bfcmind-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "time": 1212
+    "time": 1118
   }
 ]

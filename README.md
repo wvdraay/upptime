@@ -1,4 +1,4 @@
-# [📈 Live Status](https://wvdraay.github.io/upptime): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://wvdraay.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Wytze van der Raay](https://wvdraay.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -16,8 +16,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL                              | Status  | History                                                                                    | Response Time                                                                    | Uptime                                                                                                                                                                                                              |
 | -------------------------------- | ------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ccmm.care](https://ccmm.care)   | 🟥 Down | [ccmm-care.yml](https://github.com/wvdraay/upptime/commits/master/history/ccmm-care.yml)   | <img alt="Response time graph" src="./graphs/ccmm-care.png" height="20"> 992ms   | [![Uptime 99.80%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwvdraay%2Fupptime%2Fmaster%2Fapi%2Fccmm-care%2Fuptime.json)](https://wvdraay.github.io/upptime/history/ccmm-care)   |
-| [bfcmind.nl](https://bfcmind.nl) | 🟥 Down | [bfcmind-nl.yml](https://github.com/wvdraay/upptime/commits/master/history/bfcmind-nl.yml) | <img alt="Response time graph" src="./graphs/bfcmind-nl.png" height="20"> 1118ms | [![Uptime 99.81%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwvdraay%2Fupptime%2Fmaster%2Fapi%2Fbfcmind-nl%2Fuptime.json)](https://wvdraay.github.io/upptime/history/bfcmind-nl) |
+| [ccmm.care](https://ccmm.care)   | 🟥 Down | [ccmm-care.yml](https://github.com/wvdraay/upptime/commits/master/history/ccmm-care.yml)   | <img alt="Response time graph" src="./graphs/ccmm-care.png" height="20"> 921ms   | [![Uptime 99.59%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwvdraay%2Fupptime%2Fmaster%2Fapi%2Fccmm-care%2Fuptime.json)](https://wvdraay.github.io/upptime/history/ccmm-care)   |
+| [bfcmind.nl](https://bfcmind.nl) | 🟩 Up   | [bfcmind-nl.yml](https://github.com/wvdraay/upptime/commits/master/history/bfcmind-nl.yml) | <img alt="Response time graph" src="./graphs/bfcmind-nl.png" height="20"> 1558ms | [![Uptime 99.60%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwvdraay%2Fupptime%2Fmaster%2Fapi%2Fbfcmind-nl%2Fuptime.json)](https://wvdraay.github.io/upptime/history/bfcmind-nl) |
 
 <!--end: status pages-->
 
